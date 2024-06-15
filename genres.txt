@@ -1,0 +1,124 @@
+Techno                               - Dub Techno*, Techno*
+Beats / Hip Hop                      - Hip-Hop*, Drill*
+Dark Ambient / Drone / Metal         - Industrial*, Post-Punk*               > Dark Ambient / Industrial / Punk
+Disco / Boogie / Funk                - Disco*, Funk / Soul*, Italo Disco*
+Dub / Reggie                         - Dub*, Reggaeton*
+Early Electronic / Soundtracks       - Experimental, New Wave, Vaporwave
+Electronic                           - Electronica, Electro, IDM, Trance*
+Extreme / Noise / Computer Music     - Hardcore*, Noise*
+Folks / Roots**                      - Afro House*, Balearic*, Kuduro*
+Grime / Fwd                          - Grime*
+Indie / Alternative                  - Krautrock*, Pop*, R&B*
+Industrial / Wave / Electro          - EBM*, Industrial*
+Jazz / Fusion                        - Jazz*
+Jungle / Footwork                    - Footwork*, Jungle*, Drum & Bass*, UK Funky*, Dubstep**
+Modern Classical / Ambient           - Ambient, Classical
+Techo / House                        - Deep House, Tech House*, Minimal*, Club, House*
+World                                - Kwaito*, Baile Funk*
+
+
+
+
+Acid
+Amapiano
+
+Breakbeat
+Broken Beat
+
+Dancehall
+Downtempo
+
+Garage
+Gqom
+
+
+
+
+
+Beats / Hip Hop
+Dark Ambient / Drone / Metal
+Disco / Boogie / Funk
+Dub / Reggie
+Early Electronic / Soundtracks
+Electronic
+Extreme / Noise / Computer Music
+Folks / Roots
+Grime / Fwd
+Indie / Alternative
+Industrial / Wave / Electro
+Jazz / Fusion
+Jungle / Footwork
+Modern Classical / Ambient
+Techo / House
+World
+
+
+
+Acid
+Afrobeats
+Afrobeat
+Amapiano
+Ambient
+Baile Funk
+Balearic
+Bass
+Breakbeat
+Breakcore
+Broken Beat
+Classical
+Club
+Dancehall
+Deep House
+Disco
+Downtempo
+Drill
+Drone
+Drum & Bass
+Dub Techno
+Dubstep
+Dub
+EBM
+Electronica
+Electro
+Experimental
+Footwork
+Funk / Soul
+Garage
+Gqom
+Grime
+Hardcore
+Hip-Hop
+House
+IDM
+Industrial
+Italo Disco
+Jazz
+Jungle
+Krautrock
+Kuduro
+Kwaito
+Minimal
+New Wave
+Noise
+Pop
+Post-Punk
+Progressive House
+R&B
+Reggaeton
+Tech House
+Techno
+Trance
+UK Funky
+Vaporwave
+
+
+Electronic
+Experimental
+Folk/Country
+Global
+Jazz
+Metal
+Pop
+R&B
+Rap/Hip-Hop
+Rock
