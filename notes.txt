@@ -1,0 +1,85 @@
+Flow:
+1. Open json file.
+    11. read album
+    {
+        "artist": "LLL",
+        "title": "Sunda School III",
+        "label": "PORRIDGE BULLET",
+        "genre": "Techno / House"
+    }
+    12. get artist and title for search for item endpoint
+2. Searh for item
+    21. request:
+        q : album name: artist + title
+        type : album
+        limit : 1
+    22. response
+        items/id (album id)
+        items/name (album name)
+        items/artist/artist_name (artist name)
+        items/images/url (cover url - 640)
+3. Check if the response is correct
+    31. Check if response album name is the same with json data title attribute
+    32. Check if the artist name is the same with json data artist attribute
+    33. Use validation for values (lower())
+4. Get Album Tracks
+    41. request
+        id : album id
+        limit: 20 (default)
+    42. response
+        items/id : track id
+        items/name: track name
+        items/preview_url: preview_url
+5. Get Track's Audio Features
+    41. request
+        id: track id
+    42. response:
+        {
+            "acousticness": 0.00242,
+            "danceability": 0.585,
+            "energy": 0.842,
+            "id": "2takcwOaAZWiXQijPHIx7B",
+            "instrumentalness": 0.00686,
+            "key": 9,
+            "liveness": 0.0866,
+            "loudness": -5.883,
+            "mode": 0,
+            "speechiness": 0.0556,
+            "tempo": 118.211,
+            "time_signature": 4,
+            "track_href": "https://api.spotify.com/v1/tracks/2takcwOaAZWiXQijPHIx7B",
+            "uri": "spotify:track:2takcwOaAZWiXQijPHIx7B",
+            "valence": 0.428
+        }
+
+
+possible Track model:
+    id: (get_album_tracks)
+    title: (get_album_tracks)
+    artist_name: (get_album_tracks)
+    label: (json)
+    genre: (json)
+    cover_url: (search_for_item)
+    preview_url: (get_album_tracks)
+
+possible Feature model
+    acousticness:
+    danceability:
+    energy:
+    instrumentalness:
+    key:
+    liveness:
+    loudness:
+    mode: (major minor)
+    speechiness:
+    tempo:
+    valence: (positiveness)
+
+
+
+Client ID: 2b6dad33842a4764bcb8a539b4165d09
+Client secret: 760ae141fb674aa788563451a4f10a17
+
+
+
+{'access_token': 'BQCZW5mx1BQMmF1TgOj2sMty6lV-TM0-3AE7s8wNGRD1u3rp6qlRC_PuaBD31_4nONujnkkqXJPUvqiMTEFDeR0IgCsHRDT1YvwhdP_edxD1QpRFWbI', 'token_type': 'Bearer', 'expires_in': 3600}
